@@ -23,4 +23,3 @@ jobs:
           context: .
           push: true
           tags: kolyvanovand2355/my-app:latest
-
